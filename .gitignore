@@ -1,0 +1,35 @@
+# Unity-specific
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+
+# VSCode-specific
+.vscode/
+
+# User-specific settings
+/[Aa]ssets/Plugins/Editor/
+/[Pp]ackages/
+/Packages/
+/*.csproj
+/*.sln
+/*.suo
+/*.user
+/*.userprefs
+/*.pidb
+/*.booproj
+/*.svd
+/*.suo
+/*.sln.docstates
+
+# Mono Auto Generated Files
+/obj/
+/bin/
+/[Bb]uild
+
+# Visual Studio 2017/2019 cache directory
+.vs2017/
+.vs2019/

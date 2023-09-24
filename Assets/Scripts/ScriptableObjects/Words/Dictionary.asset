@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b86b58d79586a8c40a7cfd5e26a03529, type: 3}
+  m_Name: Dictionary
+  m_EditorClassIdentifier: 
+  word: Dictionary
+  meaning: A book filled with words and meanings
+  picture: {fileID: 21300000, guid: 44d91c534911fbb4dac81481577a4ac7, type: 3}
+  sound: {fileID: 8300000, guid: ff24e9d9f74e6a34e972e9bded30fba0, type: 3}
+  isComplete: 0

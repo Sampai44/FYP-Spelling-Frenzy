@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b86b58d79586a8c40a7cfd5e26a03529, type: 3}
+  m_Name: Mouse
+  m_EditorClassIdentifier: 
+  word: Mouse
+  meaning: A small animal that is afraid of cats
+  picture: {fileID: 21300000, guid: d2c234baf40acd24a81c5f18f7b388c2, type: 3}
+  sound: {fileID: 8300000, guid: e6822ede86f81554ea3e03f19f9653d2, type: 3}
+  isComplete: 0
